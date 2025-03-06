@@ -1,5 +1,8 @@
 name: Update README with latest YouTube video
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Se ejecuta diariamente
