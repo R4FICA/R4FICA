@@ -15,7 +15,6 @@ jobs:
         with:
           channel_id: UClim6caNizTjwnyJhQtObrQ  # Reemplaza con tu ID de canal de YouTube
           max_videos: 3
-          template: "📺 **{{title}}**\n[![{{title}}](https://img.youtube.com/vi/{{videoId}}/maxresdefault.jpg)]({{url}})"
           readme_path: "README.md"  # Archivo donde se insertará la info
       - name: Commit and push if changed
         run: |
