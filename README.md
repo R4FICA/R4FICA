@@ -1,4 +1,4 @@
-![BANNER-R4FICA-KO-FI](https://github.com/user-attachments/assets/3bd66ff5-6ac8-43d2-bf27-347f1b55c2cd)
+![BANNER-R4FICA](https://github.com/user-attachments/assets/3bd66ff5-6ac8-43d2-bf27-347f1b55c2cd)
 
 # Hola, soy R4FICA 👋
 
