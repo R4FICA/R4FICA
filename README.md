@@ -6,6 +6,9 @@
 
 ## 🎥 Últimos videos de YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
+[![EPOMAKER TH40 | Epo Flamingo Switches #keyboard #epomaker](https://ytcards.demolab.com/?id=ajW1dGTCqys&title=EPOMAKER+TH40+%7C+Epo+Flamingo+Switches+%23keyboard+%23epomaker&lang=en&timestamp=1741121461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "EPOMAKER TH40 | Epo Flamingo Switches #keyboard #epomaker")](https://www.youtube.com/watch?v=ajW1dGTCqys)
+[![CSTC40 Keyboard | Outemu Silent Lime #asmr #typing #keyboard #customkeyboard](https://ytcards.demolab.com/?id=JuT-TeNeIM4&title=CSTC40+Keyboard+%7C+Outemu+Silent+Lime+%23asmr+%23typing+%23keyboard+%23customkeyboard&lang=en&timestamp=1741121190&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CSTC40 Keyboard | Outemu Silent Lime #asmr #typing #keyboard #customkeyboard")](https://www.youtube.com/watch?v=JuT-TeNeIM4)
+[![EPOMAKER TH40 (Epo Flamingo Switches) | Keyboard Unboxing & Sound Test](https://ytcards.demolab.com/?id=8vLlqq6L97g&title=EPOMAKER+TH40+%28Epo+Flamingo+Switches%29+%7C+Keyboard+Unboxing+%26+Sound+Test&lang=en&timestamp=1741102955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "EPOMAKER TH40 (Epo Flamingo Switches) | Keyboard Unboxing & Sound Test")](https://www.youtube.com/watch?v=8vLlqq6L97g)
 <!-- END YOUTUBE-CARDS -->
 
 ## ¿Qué puedes encontrar aquí?
