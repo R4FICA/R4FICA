@@ -2,8 +2,6 @@
 
 # Hola, soy R4FICA 👋
 
-## Web Developer | UX/UI Designer
-
 ¡Bienvenido a mi perfil de GitHub! Soy **R4FICA**, un desarrollador web con una pasión por crear soluciones innovadoras y eficientes. Mi objetivo es brindar una serie de recursos, herramientas y fragmentos de código útiles para ayudarte a mejorar tu entorno de desarrollo web y mucho más.
 
 ## ¿Qué puedes encontrar aquí?
