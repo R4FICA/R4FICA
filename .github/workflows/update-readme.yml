@@ -1,0 +1,26 @@
+name: Update README with latest YouTube video
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Se ejecuta diariamente
+  workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch latest YouTube video
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UClim6caNizTjwnyJhQtObrQ  # Reemplaza con tu ID de canal de YouTube
+          max_videos: 3
+          template: "📺 **{{title}}**\n[![{{title}}](https://img.youtube.com/vi/{{videoId}}/maxresdefault.jpg)]({{url}})"
+          readme_path: "README.md"  # Archivo donde se insertará la info
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Updated YouTube videos" || exit 0
+          git push
