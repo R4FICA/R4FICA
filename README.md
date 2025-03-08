@@ -23,12 +23,13 @@
 - **Soluciones prácticas**: Mi enfoque es proporcionar soluciones fáciles de implementar y de alto rendimiento.
 - **Colaboración**: Me encanta colaborar con otros desarrolladores y aprender juntos.
 
-## Conéctate conmigo
+## 🚀 Conéctate conmigo
 
-- [Website](https://r4fica.com)
-- [YouTube](https://www.youtube.com/@R4FICA)
-- [TikTok](https://www.tiktok.com/@r4fica)
-- [Instagram](https://www.instagram.com/r4fica/)
+[![🌐 Web](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r4fica.com)  
+[![🎥 YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@R4FICA)  
+[![🎵 TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@r4fica)  
+[![📸 Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4fica/)  
+
 
 ¡Espero que encuentres algo útil aquí y no dudes en colaborar o preguntar cualquier cosa! 🚀
 
