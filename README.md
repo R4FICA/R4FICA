@@ -25,11 +25,11 @@
 
 ## 🚀 Conéctate conmigo
 
-[![🌐 Web](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r4fica.com)  
-[![🎥 YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@R4FICA)  
-[![🎵 TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@r4fica)  
-[![📸 Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4fica/)  
-
+[![🌐 Web](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r4fica.com) &nbsp;
+[![🎥 YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@R4FICA) &nbsp;
+[![🎵 TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@r4fica) &nbsp;
+[![📸 Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4fica/) &nbsp;
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r4fica) &nbsp;
+[![🧵 Threads](https://img.shields.io/badge/Threads-%231DA1F2.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@r4fica) &nbsp;
 
 ¡Espero que encuentres algo útil aquí y no dudes en colaborar o preguntar cualquier cosa! 🚀
-
