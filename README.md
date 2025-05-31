@@ -6,9 +6,9 @@
 
 ## 🎥 Últimos videos de YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
+[![XML / DTD | Como Crear tus Propios Archivos Validados](https://ytcards.demolab.com/?id=5y0eGFwwX-Y&title=XML+%2F+DTD+%7C+Como+Crear+tus+Propios+Archivos+Validados&lang=en&timestamp=1748617738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "XML / DTD | Como Crear tus Propios Archivos Validados")](https://www.youtube.com/watch?v=5y0eGFwwX-Y)
 [![¿Qué Hosting Web elegir para nuestro proyecto? | #hosting #web #desarrolloweb](https://ytcards.demolab.com/?id=dA6SkOzB9I4&title=%C2%BFQu%C3%A9+Hosting+Web+elegir+para+nuestro+proyecto%3F+%7C+%23hosting+%23web+%23desarrolloweb&lang=en&timestamp=1748103096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Qué Hosting Web elegir para nuestro proyecto? | #hosting #web #desarrolloweb")](https://www.youtube.com/watch?v=dA6SkOzB9I4)
 [![¿Qué Servidor Web Elegir? | VPS, Compartido o Dedicado – Guía completa sobre hosting](https://ytcards.demolab.com/?id=xmDBo_N3rN8&title=%C2%BFQu%C3%A9+Servidor+Web+Elegir%3F+%7C+VPS%2C+Compartido+o+Dedicado+%E2%80%93+Gu%C3%ADa+completa+sobre+hosting&lang=en&timestamp=1746977434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Qué Servidor Web Elegir? | VPS, Compartido o Dedicado – Guía completa sobre hosting")](https://www.youtube.com/watch?v=xmDBo_N3rN8)
-[![EL TECLADO para HACKERS | Epomaker Hack59 (Epo Flamingo Switches) #keyboard #epomaker #unboxing](https://ytcards.demolab.com/?id=4jIVN3EQrr4&title=EL+TECLADO+para+HACKERS+%7C+Epomaker+Hack59+%28Epo+Flamingo+Switches%29+%23keyboard+%23epomaker+%23unboxing&lang=en&timestamp=1741370405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "EL TECLADO para HACKERS | Epomaker Hack59 (Epo Flamingo Switches) #keyboard #epomaker #unboxing")](https://www.youtube.com/watch?v=4jIVN3EQrr4)
 <!-- END YOUTUBE-CARDS -->
 
 ## ¿Qué puedes encontrar aquí?
