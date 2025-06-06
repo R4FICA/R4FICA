@@ -6,9 +6,9 @@
 
 ## 🎥 Últimos videos de YouTube
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Epomaker Hack59 | 1 Hora de Mecanografía ASMR](https://ytcards.demolab.com/?id=stZsgap2smY&title=Epomaker+Hack59+%7C+1+Hora+de+Mecanograf%C3%ADa+ASMR&lang=en&timestamp=1749136884&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Epomaker Hack59 | 1 Hora de Mecanografía ASMR")](https://www.youtube.com/watch?v=stZsgap2smY)
 [![XML / DTD | Como Crear tus Propios Archivos Validados](https://ytcards.demolab.com/?id=5y0eGFwwX-Y&title=XML+%2F+DTD+%7C+Como+Crear+tus+Propios+Archivos+Validados&lang=en&timestamp=1748617738&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "XML / DTD | Como Crear tus Propios Archivos Validados")](https://www.youtube.com/watch?v=5y0eGFwwX-Y)
 [![¿Qué Hosting Web elegir para nuestro proyecto? | #hosting #web #desarrolloweb](https://ytcards.demolab.com/?id=dA6SkOzB9I4&title=%C2%BFQu%C3%A9+Hosting+Web+elegir+para+nuestro+proyecto%3F+%7C+%23hosting+%23web+%23desarrolloweb&lang=en&timestamp=1748103096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Qué Hosting Web elegir para nuestro proyecto? | #hosting #web #desarrolloweb")](https://www.youtube.com/watch?v=dA6SkOzB9I4)
-[![¿Qué Servidor Web Elegir? | VPS, Compartido o Dedicado – Guía completa sobre hosting](https://ytcards.demolab.com/?id=xmDBo_N3rN8&title=%C2%BFQu%C3%A9+Servidor+Web+Elegir%3F+%7C+VPS%2C+Compartido+o+Dedicado+%E2%80%93+Gu%C3%ADa+completa+sobre+hosting&lang=en&timestamp=1746977434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "¿Qué Servidor Web Elegir? | VPS, Compartido o Dedicado – Guía completa sobre hosting")](https://www.youtube.com/watch?v=xmDBo_N3rN8)
 <!-- END YOUTUBE-CARDS -->
 
 ## ¿Qué puedes encontrar aquí?
