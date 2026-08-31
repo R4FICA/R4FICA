@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm **R4FICA**, an FPV drone pilot and developer. 
 
 ## 🎥 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![RadioMaster GX12 | Unboxing & FPV Sim Test](https://ytcards.demolab.com/?id=Lir3Yxb_2VM&title=RadioMaster+GX12+%7C+Unboxing+%26+FPV+Sim+Test&lang=en&timestamp=1788115113&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "RadioMaster GX12 | Unboxing & FPV Sim Test")](https://www.youtube.com/watch?v=Lir3Yxb_2VM)
 [![INSTALA N8N GRATIS en tu PC | Instalación en local con Docker](https://ytcards.demolab.com/?id=NJ1t2N8SYOY&title=INSTALA+N8N+GRATIS+en+tu+PC+%7C+Instalaci%C3%B3n+en+local+con+Docker&lang=en&timestamp=1767815932&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "INSTALA N8N GRATIS en tu PC | Instalación en local con Docker")](https://www.youtube.com/watch?v=NJ1t2N8SYOY)
 [![METEOR75PRO & AIR75 - 1 HORA DE VUELO | Ultimate Flight Test](https://ytcards.demolab.com/?id=qQzyhprmpNA&title=METEOR75PRO+%26+AIR75+-+1+HORA+DE+VUELO+%7C+Ultimate+Flight+Test&lang=en&timestamp=1766854800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "METEOR75PRO & AIR75 - 1 HORA DE VUELO | Ultimate Flight Test")](https://www.youtube.com/watch?v=qQzyhprmpNA)
-[![Radiomaster Pocket Crush | UNBOXING + TEST](https://ytcards.demolab.com/?id=P1jxzE99vm0&title=Radiomaster+Pocket+Crush+%7C+UNBOXING+%2B+TEST&lang=en&timestamp=1766250000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Radiomaster Pocket Crush | UNBOXING + TEST")](https://www.youtube.com/watch?v=P1jxzE99vm0)
 <!-- END YOUTUBE-CARDS -->
 
 ## What can you find here?
